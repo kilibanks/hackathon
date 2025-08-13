@@ -10,12 +10,16 @@ body{
 
 .navbar{
 color: rgb(31, 31, 55);
+align-content: space-evenly;
+background-color: rgb(127, 154, 138);
+
 }
 
 .bernoulli{
 border: 10px solid;
 width: 250px;
 height: 250px;
+size: 250px;
 }
 
 .hello{
